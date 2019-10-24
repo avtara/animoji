@@ -828,5 +828,23 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+  },
+  {
+    animeEmoji:'😱🤕⚔️',
+    animeName:'Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/37393/Watashi_Nouryoku_wa_Heikinchi_de_tte_Itta_yo_ne'
+  },
+  {
+    animeEmoji:'⚔️😱💕',
+    animeName:'Assassins Pride',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38572/Assassins_Pride'
+  },
+  {
+    animeEmoji:'💕👪🥰',
+    animeName:'Usagi Drop',
+    animeYear:2011,
+    animeLink:'https://myanimelist.net/anime/10162/Usagi_Drop'
   }
 ];
